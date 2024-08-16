@@ -1,0 +1,7 @@
+pytest==6.2.*
+flake8==3.9.*
+isort==5.9.*
+Django==3.2.*
+pytest-django==4.4.*
+djangorestframework==3.12.*
+django-debug-toolbar==3.6.0
